@@ -1,7 +1,9 @@
 ---
 title: Multispectral Imaging for Non-Contact Cognitive Load Estimation
+tags: multimodality, neuroscience
 ---
-I conducted this work over the summers in 2024 and 2025 as part of my [GEM Fellowship](https://www.gemfellowship.org/).
+# Description
+I conducted this work at [NASA's Johnson Space Center](https://www.nasa.gov/johnson/) over the summers in 2024 and 2025 as part of my [GEM Fellowship](https://www.gemfellowship.org/). I extended this work as part of my graduate research plan statement for the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/).
 
 The goal of this project was to develop a non-contact system to estimate human cognitive load. Ando et. al. [1]'s work shows the feasibility of developing a custom time-extracted multi-spectral camera that quantifies neuron activations within the lateral Prefrontal Cortex (lPFC). This is crucial because the lPFC is involved in executive functions such as working memory, decision-making, and cognitive control.
 
@@ -16,7 +18,5 @@ With proper hardware selection, I could measure lPFC blood oxygenation by tuning
 # Talk
 <iframe
   src="/Multispectral Imaging for Non-Contact Cognitive Load Estimation.pdf"
-  width="100%"
-  height="490px"
-  style="border: none;">
+  style="width: 100%; height: auto; aspect-ratio: 16 / 9; border: none;">
 </iframe>

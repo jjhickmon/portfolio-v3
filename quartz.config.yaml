@@ -230,7 +230,7 @@ plugins:
       position: afterBody
       priority: 10
   - source: github:quartz-community/footer
-    enabled: true
+    enabled: false
     options:
       links:
         GitHub: https://github.com/jackyzha0/quartz
@@ -272,10 +272,10 @@ plugins:
       subdir: plugin
     enabled: true
     options:
-      theme: "encore"
+      theme: "border"
       mode: "both"
   - source: github:quartz-community/obsidian-plugin-excalidraw
-    enabled: true
+    enabled: false
     options:
       enableInteraction: true
       darkMode: auto
@@ -297,12 +297,11 @@ layout:
     folder:
       exclude:
         - reader-mode
-      positions:
-        # right: []
+        - graph
+        - backlinks
     tag:
       exclude:
         - reader-mode
-      positions:
-        right: []
+
     canvas: {}
     bases: {}

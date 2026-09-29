@@ -1,9 +1,6 @@
 ---
 title: Teaching
 ---
-\*each position has been held within the University of Washington's Paul G. Allen School of Computer Science & Engineering
-\*the Allen Scholars' supplemental courses experienced a course number restructuring beginning in the fall of 2025. CSE 190[X/Y/Z] and CSE 197[X/Y/Z] are the same courses respectively.
-
 # Instructor
 - CSE 197Y: [[Allen School Scholars Program]] CSE 123 Supplemental Course
 	**September 2025 - June 2026**
@@ -31,3 +28,6 @@ title: Teaching
     **January 2023 - March 2023**
 - CSE 190X: [[Allen School Scholars Program]] CSE 121 Supplemental Course
     **September 2022 - December 2022**
+
+\*each position has been held within the University of Washington's Paul G. Allen School of Computer Science & Engineering
+\*the Allen Scholars' supplemental courses experienced a course number restructuring beginning in the fall of 2025. CSE 190[X/Y/Z] and CSE 197[X/Y/Z] are the same courses respectively.

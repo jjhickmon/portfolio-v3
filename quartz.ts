@@ -3,34 +3,26 @@ import * as ExternalPlugin from "./.quartz/plugins"
 
 ExternalPlugin.Explorer({
   sortFn: (a, b) => {
-    console.log("A", a, "B", b)
     const order = [
+      "Curriculum Vitae",
       "Publications",
       "Teaching",
-      "Posters & Talks",
+      "Posters, Talks, and Panels",
       "Service"
     ]
 
-    const aIndex = order.indexOf(a.displayName)
-    const bIndex = order.indexOf(b.displayName)
+    const ai = order.indexOf(a.displayName)
+    const bi = order.indexOf(b.displayName)
 
-    if (aIndex !== -1 || bIndex !== -1) {
-      if (aIndex === -1) return 1
-      if (bIndex === -1) return -1
-      return aIndex - bIndex
-    }
+    if (ai !== -1 && bi !== -1) return ai - bi
+    if (ai !== -1) return -1
+    if (bi !== -1) return 1
 
-    const aYear = Number(a.slugSegments?.[1])
-    const bYear = Number(b.slugSegments?.[1])
-
-    if (aYear && bYear) {
-      return bYear - aYear
-    }
-
-    if (aYear) return -1
-    if (bYear) return 1
-
-    return a.displayName.localeCompare(b.displayName)
+    if (a.isFolder !== b.isFolder) return a.isFolder ? -1 : 1
+    return a.displayName.localeCompare(b.displayName, undefined, {
+      numeric: true,
+      sensitivity: "base",
+    })
   },
 
   filterFn: (node) => {
