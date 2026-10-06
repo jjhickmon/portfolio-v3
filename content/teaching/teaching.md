@@ -1,6 +1,7 @@
 ---
 title: Teaching
 ---
+If you have ever been a student of mine, please don't hesitate to reach out! I would love to connect!
 # Instructor
 - CSE 197Y: [[Allen School Scholars Program]] CSE 123 Supplemental Course
 	**September 2025 - June 2026**

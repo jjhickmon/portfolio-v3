@@ -1,9 +1,9 @@
 ---
 title: Hi, I'm Javon!
 ---
-<img src="/profile_photo2.jpg" class="profile-photo" width="228"> I am currently a Ph.D. Student within the department of Computer Science at the University of Washington, advised by Professors [Katharina Reinecke](https://homes.cs.washington.edu/~reinecke/) and [Max Kleiman-Weiner](https://faculty.washington.edu/maxkw/). I am broadly interested in **AI Ethics**, and **Human-AI Interaction**.
+<img src="/profile_photo2.jpg" class="profile-photo" width="228"> I am currently a Ph.D. Student within the department of Computer Science at the University of Washington, advised by Professors [Katharina Reinecke](https://homes.cs.washington.edu/~reinecke/) and [Max Kleiman-Weiner](https://faculty.washington.edu/maxkw/). I am broadly interested in **AI Ethics** and **Human-AI Interaction**.
 
-Currently, my research interests are twofold: I aim to (1) improve how human moral values are modeled within intelligent systems and (2) understand how human perceptions of AI systems affect their decision-making processes.
+Currently, my research interests are to (1) improve how human moral values are modeled within intelligent systems and (2) understand how human perceptions of AI systems affect their decision-making processes.
 
 Throughout my undergraduate and master's degrees I was supervised by [Professor Ali Farhadi](https://homes.cs.washington.edu/~ali/) and mentored by [Sarah Pratt](https://sarahpratt.github.io/) within the [RAIVN Lab](https://raivn.cs.washington.edu/). My previous [[/publications]] in addition to my [[posters, talks, and panels/]] explored moral value through the lens of multimodal machine learning systems.
 
