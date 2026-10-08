@@ -11,18 +11,18 @@ Feel free to read [my blog posts](https://jjhickmon.github.io/dreu/), conducted
 
 # Final Report
 <iframe
-  src="/Honeybee Swarm Dynamics - Investigating the Relationship Between Individual Decision-Making and Collective Foraging (report).pdf"
+  src="honeybee-swarm-dynamics-investigating-the-relationship-between-individual-decision-making-and-collective-foraging-report.pdf"
   style="width: 100%; height: auto; aspect-ratio: 3 / 4; border: none;">
 </iframe>
 
 # Talk
 <iframe
-  src="/Honeybee Swarm Dynamics - Investigating the Relationship Between Individual Decision-Making and Collective Foraging (talk).pdf"
+  src="honeybee-swarm-dynamics-investigating-the-relationship-between-individual-decision-making-and-collective-foraging-talk.pdf"
   style="width: 100%; height: auto; aspect-ratio: 16 / 9; border: none;">
 </iframe>
 
 # Poster
 <iframe
-  src="/Honeybee Swarm Dynamics - Investigating the Relationship Between Individual Decision-Making and Collective Foraging (poster).pdf"
+  src="honeybee-swarm-dynamics-investigating-the-relationship-between-individual-decision-making-and-collective-foraging-poster.pdf"
   style="width: 100%; height: auto; aspect-ratio: 4 / 3; border: none;">
 </iframe>

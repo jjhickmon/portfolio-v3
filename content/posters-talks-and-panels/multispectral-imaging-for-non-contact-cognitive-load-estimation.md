@@ -17,6 +17,6 @@ With proper hardware selection, I could measure lPFC blood oxygenation by tuning
 
 # Talk
 <iframe
-  src="/Multispectral Imaging for Non-Contact Cognitive Load Estimation.pdf"
+  src="multispectral-imaging-for-non-contact-cognitive-load-estimation.pdf"
   style="width: 100%; height: auto; aspect-ratio: 16 / 9; border: none;">
 </iframe>
