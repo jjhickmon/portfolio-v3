@@ -6,6 +6,8 @@ Bricker, L., **Hickmon, J.**, Bowe, L., Payton, J., & Dowling, K. (2026, Februar
 **Hickmon, J.** (2024, March). [[multimodal-ensembling-for-zero-shot-image-classification | Multimodal Ensembling for Zero-Shot Image Classification]]. In _Proceedings of the AAAI Conference on Artificial Intelligence_ (Vol. 38, No. 21, pp. 23747-23749). [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/30551/32713) [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=icxbmr4AAAAJ&citation_for_view=icxbmr4AAAAJ:u5HHmVD_uO8C)
 
 # Preprints
+**Hickmon, J.** (2026). [[moral-images-and-immoral-machines-toward-cross-modal-vlm-value-consistency | Moral Images and (Im)moral Machines: Toward Cross-Modal VLM Value Consistency]] (Master's Thesis)
+
 **Hickmon, J.** (2025). [[d3g-diverse-demographic-data-generation-increases-zero-shot-image-classification-accuracy-within-multimodal-models | D3G: Diverse Demographic Data Generation Increases Zero-Shot Image Classification Accuracy within Multimodal Models]]. _arXiv preprint arXiv:2512.15747_. [PDF](https://arxiv.org/pdf/2512.15747) [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=icxbmr4AAAAJ&citation_for_view=icxbmr4AAAAJ:d1gkVwhDpl0C)
 
 **Hickmon, J.** (2024). [[multimodal-approaches-to-fair-image-classification-an-ethical-perspective | Multimodal Approaches to Fair Image Classification - An Ethical Perspective]]. _arXiv preprint arXiv:2412.12165_. (Undergraduate Honors Thesis) [PDF](https://arxiv.org/pdf/2412.12165) [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=icxbmr4AAAAJ&citation_for_view=icxbmr4AAAAJ:d1gkVwhDpl0C)
