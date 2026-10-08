@@ -1,5 +1,5 @@
 ---
-title: Posters, Talks, and Panels
+title: Presentations
 ---
 # Posters
 ### [[multimodal-ensembling-for-zero-shot-image-classification | Multimodal Ensembling for Zero-Shot Image Classification]]

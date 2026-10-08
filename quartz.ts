@@ -7,7 +7,7 @@ ExternalPlugin.Explorer({
       "Curriculum Vitae",
       "Publications",
       "Teaching",
-      "Posters, Talks, and Panels",
+      "Presentations",
       "Service"
     ]
 
