@@ -1,5 +1,29 @@
 @use "./variables.scss" as *;
 
+.page {
+  min-height: 100vh;
+  min-height: 100dvh;
+}
+
+@media all and ($desktop) {
+  .page > #quartz-body {
+    min-height: 100vh;
+    min-height: 100dvh;
+    grid-template-rows: auto;
+    grid-template-areas: "grid-sidebar-left grid-center grid-sidebar-right";
+    align-content: center;
+  }
+
+  .page > #quartz-body > .center {
+    grid-area: grid-center;
+  }
+
+  .page > #quartz-body > .sidebar {
+    justify-content: flex-start;
+    height: auto;
+  }
+}
+
 .profile-photo {
   float: left;
   width: 228px;
